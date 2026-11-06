@@ -2,6 +2,16 @@
 
 > Built at an IBM volunteer event on **November 5, 2026** in San Jose, California, in support of **[Sacred Heart Community Service](https://sacredheartcs.org)**.
 
+## ▶️ Play It
+
+**[Play Coast to Coast in your browser](https://arcade.makecode.com/S34315-50868-70857-77989)**
+
+[![Play on MakeCode Arcade](https://img.shields.io/badge/Play-MakeCode%20Arcade-blue)](https://arcade.makecode.com/S34315-50868-70857-77989)
+
+![Coast to Coast gameplay: an F1 car racing down the Pacific Coast Highway past traffic and an oil slick](assets/gameplay.png)
+
+No install needed. The game runs in the MakeCode Arcade simulator. Use the arrow keys to drive, **Space/Z** for nitro (A) and **X** to brake (B). To edit the code, click **Edit Code** on that page.
+
 ## About This Project
 
 This game was made during the IBM volunteer event **"Assemble a Micro:bit-based Game Designer Kit and vibe code a game for students,"** held at the IBM Silicon Valley Lab in San Jose.

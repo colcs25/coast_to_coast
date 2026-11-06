@@ -47,6 +47,12 @@ Each stage has a target time. Crossing the checkered finish line under it earns 
 
 The project uses only built-in MakeCode Arcade APIs: hand-drawn pixel-art sprites, a road drawn every frame with curves, and a live HUD showing the stage timer, target time, progress bar, speedometer and nitro gauge.
 
+## Tools Used
+
+- **[Microsoft MakeCode Arcade](https://arcade.makecode.com/)**: game engine, code editor and browser simulator.
+- **[Sprite Maker Lab](https://sprite-maker-lab.emergent.host/design/p_mw44r9wf_gmhqjh)**: used to design the pixel-art sprites (vehicles, traffic, hazards and pickups).
+- **Micro:bit Game Designer Kit**: the handheld console the game was built for and donated with.
+
 ## Event Details
 
 | | |

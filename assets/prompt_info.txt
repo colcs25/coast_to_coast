@@ -1,0 +1,25 @@
+Generate a complete working game for microsoft makecode
+
+Arcade using MakeCode-compatible JavaScript/TypeScript. Use built-in
+MakeCode Arcade
+APIs only, with no external libraries or online features. Include the player controls, sprites,
+scoring, gameplay logic, win/lose conditions and clear instructions.
+Return the complete code, ready to paste into the MakeCode Arcade JavaScript editor.
+
+
+DESIGN ASSISTANT
+Here's what I understand your game to be so far:
+
+You're racing across the country stage-by-stage in different vehicles (F1, race cars, off-road rigs, semi trucks). Each stage has a target time you need to beat. Your cumulative time across all stages is your "coast-to-coast" record. If your total time is fast enough, you win.
+
+A few things worth clarifying before we lock this in:
+
+1. What's the score target? You said "Hit a score target" for the win condition — is that a specific time (e.g. "finish in under 2 minutes total")? Or a number of stages completed? How does the player know what they're aiming for?
+
+2. How many stages are there? Do you race through a fixed number of stages, or does it vary?
+
+3. Movement confusion: You said "Fly free (all directions)" and "zero-gravity movement" — but you're a driver in a vehicle. Should the vehicle move smoothly around the screen in any direction (like a top-down racer), or is this something else?
+
+4. Lose condition: What happens if you miss a stage's target time? Do you get a second attempt, game over, or keep going with a penalty?
+
+5. Visual vs. mechanic: Since you're switching vehicles each stage, do they look/move differently on screen, or does the vehicle change invisibly between stages?
